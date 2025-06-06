@@ -31,8 +31,7 @@ targets::tar_load(DF_analysis)
 Descripción del proceso de preparación de datos.
 
 ```{r data-preparation}
-.
-DF =
+
  DF_analysis$DF_analysis %>% 
   
   # Update with your variable names
@@ -41,7 +40,7 @@ DF =
   # Continue your data preparation, if needed
 filter( by = id) %>% 
 drop_na()
-
+drop_na()
 
 ```
 
