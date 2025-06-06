@@ -1,0 +1,31 @@
+id,ESM_01_RAW,ESM_02_RAW,ESM_03_RAW,ESM_04_RAW,ESM_05_RAW,ESM_06_RAW,ESM_07_RAW,ESM_08_RAW,ESM_09_RAW,ESM_10_RAW,ESM_11_RAW,ESM_01_DIR,ESM_02_DIR,ESM_03_DIR,ESM_04_DIR,ESM_05_DIR,ESM_06_DIR,ESM_07_DIR,ESM_08_DIR,ESM_09_DIR,ESM_10_DIR,ESM_11_DIR,ESM_RAW_NA,ESM_DIR_NA,ESM_DIRt
+1,Peor,No se,Mala,No,No se,Si,Muy Buena,No se,No se,No,Si,1,0,1,-1,0,1,-2,0,0,-1,1,0,0,0
+10,Igual,No,Mala,No,No se,No se,Muy Buena,No,No se,Si,No se,0,-1,1,-1,0,0,-2,-1,0,1,0,0,0,-3
+11,Mejor,Si,Mala,No se,No,Si,Muy Buena,No se,No,No se,No se,-1,1,1,0,-1,1,-2,0,-1,0,0,0,0,-2
+12,Igual,No se,Buena,No se,No se,Si,Muy Mala,No se,Si,No se,Si,0,0,-1,0,0,1,2,0,1,0,1,0,0,4
+13,Mejor,No se,Muy Mala,No,Si,Si,Mala,No,No se,No se,No se,-1,0,2,-1,1,1,1,-1,0,0,0,0,0,2
+14,Peor,No,Mala,No se,Si,No,Buena,Si,No se,Si,No,1,-1,1,0,1,-1,-1,1,0,1,-1,0,0,1
+15,Peor,No se,Buena,Si,Si,No se,Buena,No se,No se,No se,No se,1,0,-1,1,1,0,-1,0,0,0,0,0,0,1
+16,Igual,No se,Muy Mala,Si,No,No se,Muy Mala,No se,Si,No,Si,0,0,2,1,-1,0,2,0,1,-1,1,0,0,5
+17,Peor,No,Muy Buena,Si,No se,No,Mala,No se,No se,No se,No se,1,-1,-2,1,0,-1,1,0,0,0,0,0,0,-1
+18,Peor,No se,Muy Buena,No,No se,Si,Mala,Si,No,Si,No,1,0,-2,-1,0,1,1,1,-1,1,-1,0,0,0
+19,Igual,Si,Muy Buena,No se,No,No se,Mala,No se,No se,No se,Si,0,1,-2,0,-1,0,1,0,0,0,1,0,0,0
+2,Mejor,No,Muy Buena,No se,No,No,Mala,No,No se,No se,Si,-1,-1,-2,0,-1,-1,1,-1,0,0,1,0,0,-5
+20,Peor,Si,Muy Mala,No se,Si,No se,Muy Buena,No,Si,No,Si,1,1,2,0,1,0,-2,-1,1,-1,1,0,0,3
+21,Mejor,Si,Mala,No,No se,No se,Muy Buena,No se,No se,Si,Si,-1,1,1,-1,0,0,-2,0,0,1,1,0,0,0
+22,Mejor,No,Buena,Si,No se,Si,Buena,Si,No,Si,No,-1,-1,-1,1,0,1,-1,1,-1,1,-1,0,0,-2
+23,Mejor,No se,Buena,No se,No se,No se,Muy Mala,No se,Si,Si,No se,-1,0,-1,0,0,0,2,0,1,1,0,0,0,2
+24,Igual,No se,Muy Mala,No se,Si,No,Muy Buena,No,Si,No,No se,0,0,2,0,1,-1,-2,-1,1,-1,0,0,0,-1
+25,Peor,No,Mala,No se,No se,No se,Mala,Si,Si,No se,Si,1,-1,1,0,0,0,1,1,1,0,1,0,0,5
+26,Peor,Si,Mala,Si,No,Si,Buena,Si,No,No se,No se,1,1,1,1,-1,1,-1,1,-1,0,0,0,0,3
+27,Igual,No se,Mala,No se,No se,No se,Muy Mala,Si,No se,Si,No,0,0,1,0,0,0,2,1,0,1,-1,0,0,4
+28,Mejor,No se,Muy Buena,No,Si,No,Muy Buena,No,No se,No se,No se,-1,0,-2,-1,1,-1,-2,-1,0,0,0,0,0,-7
+29,Peor,No se,Muy Buena,No se,No se,Si,Muy Buena,No se,Si,No,No se,1,0,-2,0,0,1,-2,0,1,-1,0,0,0,-2
+3,Peor,Si,Muy Mala,No se,Si,Si,Mala,No se,No,Si,Si,1,1,2,0,1,1,1,0,-1,1,1,0,0,8
+30,Peor,Si,Buena,Si,No,Si,Buena,No se,No se,No se,Si,1,1,-1,1,-1,1,-1,0,0,0,1,0,0,2
+4,Igual,Si,Mala,No,No,No se,Buena,No se,No se,Si,No,0,1,1,-1,-1,0,-1,0,0,1,-1,0,0,-1
+5,Mejor,No,Mala,Si,Si,No se,Muy Mala,No,Si,Si,No se,-1,-1,1,1,1,0,2,-1,1,1,0,0,0,4
+6,Mejor,No se,Buena,No,No se,No,Mala,No se,Si,No,No se,-1,0,-1,-1,0,-1,1,0,1,-1,0,0,0,-3
+7,Igual,No se,Muy Buena,Si,No se,No se,Buena,Si,Si,No se,No,0,0,-2,1,0,0,-1,1,1,0,-1,0,0,-1
+8,Peor,No,Buena,No se,No,No se,Muy Mala,Si,No,No se,Si,1,-1,-1,0,-1,0,2,1,-1,0,1,0,0,1
+9,Peor,Si,Muy Buena,No se,No se,No,Muy Buena,Si,No se,No,No se,1,1,-2,0,0,-1,-2,1,0,-1,0,0,0,-3
