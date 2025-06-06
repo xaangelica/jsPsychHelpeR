@@ -31,7 +31,7 @@ targets::tar_load(DF_analysis)
 Descripción del proceso de preparación de datos.
 
 ```{r data-preparation}
-
+.
 DF =
  DF_analysis$DF_analysis %>% 
   
